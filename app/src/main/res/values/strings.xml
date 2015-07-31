@@ -1,9 +1,16 @@
 <resources>
-    <string name="app_name">SmartMail</string>
-    <string name="title_activity_test_api">testApi</string>
+    <string name="app_name">SmartMail2</string>
+    <string name="title_activity_main">MainActivity</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="hello">ResultsActivity</string>
+    <string name="fromCamera">Take Photo</string>
+    <string name="fromFile">Get exisiting photo</string>
+    <string name="title_activity_un_subscribe">UnSubscribeActivity</string>
+    <string name="menu_settings">Settings</string>
+
+
 </resources>
